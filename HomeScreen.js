@@ -1,6 +1,4 @@
 /**
- * 
- *
  * @providesModule HomeScreen
  */
 
